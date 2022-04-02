@@ -1,0 +1,12 @@
+.detail {
+    text-align: center;
+}
+.detail img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.detail h1 {
+    text-transform: uppercase;
+    margin: 1rem 0;
+}
